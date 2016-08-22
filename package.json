@@ -5,7 +5,7 @@
   "scripts": {
     "test": "$(npm bin)/bulk-decaffeinate -d ./atom check"
   },
-  "author": "",
+  "author": "Mads Konradsen",
   "license": "MIT",
   "dependencies": {
     "bulk-decaffeinate": "^1.1.0",
