@@ -1,0 +1,14 @@
+{
+  "name": "bulk-decaffeinate-atom",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "$(npm bin)/bulk-decaffeinate -d ./atom check"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "bulk-decaffeinate": "^1.1.0",
+    "decaffeinate": "^2.22.3"
+  }
+}
