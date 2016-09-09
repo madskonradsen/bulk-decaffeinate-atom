@@ -9,6 +9,7 @@
   "license": "MIT",
   "dependencies": {
     "bulk-decaffeinate": "^1.1.0",
-    "decaffeinate": "^2.22.3"
+    "decaffeinate": "^2.22.3",
+    "eslint": "^3.4.0"
   }
 }
